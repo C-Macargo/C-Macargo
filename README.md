@@ -1,21 +1,31 @@
-<h1 align="center">Hi there! 🐉</h1>
+<h1 align="left">Hi there! 🐉</h1>
 
 ###
-<p align="center">
+
 - 👋 My name is Caio Camargo SIlveira, but everyone just calls me Camargo
 - 🌱 I’m currently studying to be a full-stack developer at Driven Education
 - ⚡ Pronouns: he/him
 - 😄 Fun facts: I love drawing and painting, for a part of my life i lived in Asia.
-  </p>
+ 
 ###
 
 <br clear="both">
 
-<h3 align="center">📜 About me</h3>
+<h3 align="left">📜 About me</h3>
 
 ###
 
-<p align="center">Hello World!!</p>
+<p align="left">
+I was born in Macaé - Rio de Janeiro, in Brazil.
+
+When I was younger, I had the opportunity to travel a lot, thanks to that I lived abroad for a period of my life.
+
+Currently I am attending university, there I study Graphic design. While in university I had contact with some programming classes and fell in love with it.
+
+For as long as I can remember I have always loved all things tech and math related, that passion was ignited thanks in great part to video games.
+
+As I journey through this world of programming and technologies I hope to amass as much knowledge as I can to improve my skills in the hopes of building something that makes me proud.!
+</p>
 
 ###
 
