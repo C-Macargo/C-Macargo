@@ -5,8 +5,11 @@
 <h3 align="left">
 
 -👋 My name is Caio Camargo Silveira, but my friends just call me Camargo.
+
 -🌱 I'm currently studying to be a full-stack developer at Driven Education
+
 -⚡ Pronouns: he/him
+
 -😄 Fun facts: I love drawing and painting and lived a part of my life in Asia
   
 </h3>
