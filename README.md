@@ -1,10 +1,12 @@
 <h1 align="center">Hi there! 🐉</h1>
 
 ###
+<p align="center">
 - 👋 My name is Caio Camargo SIlveira, but everyone just calls me Camargo
 - 🌱 I’m currently studying to be a full-stack developer at Driven Education
 - ⚡ Pronouns: he/him
 - 😄 Fun facts: I love drawing and painting, for a part of my life i lived in Asia.
+  </p>
 ###
 
 <br clear="both">
@@ -13,7 +15,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="center">Hello World!!</p>
 
 ###
 
