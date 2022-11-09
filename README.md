@@ -1,19 +1,10 @@
 <h1 align="left">Hi there! 🐉</h1>
 
 ###
-
-<h3 align="left">
-
-👋 My name is Caio Camargo Silveira, but my friends just call me Camargo.
-
-🌱 I'm currently studying to be a full-stack developer at Driven Education
-
-⚡ Pronouns: he/him
-
-😄 Fun facts: I love drawing and painting and lived a part of my life in Asia
-  
-</h3>
-
+- 👋 My name is Caio Camargo SIlveira, but everyone just calls me Camargo
+- 🌱 I’m currently studying to be a full-stack developer at Driven Education
+- ⚡ Pronouns: he/him
+- 😄 Fun facts: I love drawing and painting, for a part of my life i lived in Asia.
 ###
 
 <div align="center">
