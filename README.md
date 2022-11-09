@@ -24,7 +24,7 @@ Currently I am attending university, there I study Graphic design. While in univ
 
 For as long as I can remember I have always loved all things tech and math related, that passion was ignited thanks in great part to video games.
 
-As I journey through this world of programming and technologies I hope to amass as much knowledge as I can to improve my skills in the hopes of building something that makes me proud.!
+As I journey through this world of programming and technologies I hope to amass as much knowledge as I can to improve my skills in the hopes of building something that makes me proud.
 </p>
 
 ###
