@@ -34,6 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/C-Macargo/C-Macargo/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/C-Macargo/C-Macargo/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
