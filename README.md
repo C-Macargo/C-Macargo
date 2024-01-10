@@ -20,7 +20,7 @@ I was born in Macaé - Rio de Janeiro, in Brazil.
 
 When I was younger, I had the opportunity to travel a lot, thanks to that I lived abroad for a period of my life.
 
-Currently, I am attending university, there I study analysis and systems development. While at university, I had contact with some programming classes and fell in love with it.
+Currently, I am attending university, there I study analysis and systems development.
 
 For as long as I can remember, I have always loved all things tech and math-related. That passion was ignited thanks in great part to video games.
 
