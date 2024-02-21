@@ -143,10 +143,3 @@ As I journey through this world of programming and technologies, I hope to amass
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&username=C-Macargo" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&username=C-Macargo" height="150" alt="languages graph"  />
 </div>
-
-###
-
-![Snake animation](https://github.com/C-Macargo/C-Macargo/blob/output/github-contribution-grid-snake.svg)
-
-
-###
