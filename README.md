@@ -3,7 +3,7 @@
 ###
 
 - 👋 My name is Caio Camargo SIlveira, but everyone just calls me Camargo
-- 🌱 I am currently learning next.js, vite and typescript
+- 🌱 I am currently learning python and typescript
 - ⚡ Pronouns: he/him
 - 😄 Fun facts: I love drawing and painting, for a part of my life i lived in Asia.
  
@@ -89,7 +89,7 @@ As I journey through this world of programming and technologies, I hope to amass
         <img width="12" /> Docker
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="40" alt="amazonwebservices logo"  />
         <img width="12" /> AWS
       </td>
       <td>
