@@ -89,7 +89,7 @@ As I journey through this world of programming and technologies, I hope to amass
         <img width="12" /> Docker
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="40" alt="amazonwebservices logo"  />
+        <img src="https://camo.githubusercontent.com/07b9bdb194e5e5789ccfc711011f139a64122ecf6f9f582c58d1b0658a267f98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e5f4157532d4646393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465" height="40" alt="amazonwebservices logo"  />
         <img width="12" /> AWS
       </td>
       <td>
