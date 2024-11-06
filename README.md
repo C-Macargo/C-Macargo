@@ -3,7 +3,7 @@
 ###
 
 - 👋 My name is Caio Camargo SIlveira, but everyone just calls me Camargo
-- 🌱 I am currently learning python and typescript
+- 🌱 I am currently studying concepts in machine learning and data lakes
 - ⚡ Pronouns: he/him
 - 😄 Fun facts: I love drawing and painting, for a part of my life i lived in Asia.
  
@@ -128,8 +128,6 @@ As I journey through this world of programming and technologies, I hope to amass
   <a href="https://www.linkedin.com/in/caio-camargo-1a4009213/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-</div>
 
 ###
 
