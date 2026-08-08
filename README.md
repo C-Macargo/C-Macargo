@@ -96,14 +96,3 @@ As I continue to grow in programming and technology, I aim to keep improving my 
 </div>
 
 ###
-
-<br clear="both">
-
-<h3 align="center">⚙️ GitHub Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C-Macargo&show_icons=true&include_all_commits=true&count_private=true&theme=shades-of-purple&hide_border=true" height="150" alt="GitHub stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C-Macargo&layout=compact&langs_count=6&theme=synthwave&hide_border=true" height="150" alt="Top languages graph" />
-</div>
