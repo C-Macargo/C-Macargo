@@ -22,7 +22,7 @@ Growing up, I had the opportunity to travel a lot, and I also lived abroad for p
 
 Today, I work mainly with data engineering, Python development, and cloud solutions on AWS, while pursuing a postgraduate degree in Data Science.
 
-I have always been drawn to technology and mathematics, and much of that interest started with video games.
+I have always been drawn to technology and mathematics, and much of that interest started with video games. I am also an aspiring game developer and enjoy building with Unity.
 
 As I continue to grow in programming and technology, I aim to keep improving my skills and build things that make me proud.
 </p>
