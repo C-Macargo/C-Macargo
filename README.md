@@ -41,32 +41,42 @@ As I continue to grow in programming and technology, I aim to keep improving my 
 
 <p align="left">
   <strong>Languages</strong><br>
-  <img src="https://skillicons.dev/icons?i=python,bash" alt="Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp badge" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash badge" />
 </p>
 
 <p align="left">
   <strong>Data Engineering</strong><br>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,linux" alt="Data engineering technologies" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="Amazon DynamoDB badge" />
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="Amazon Redshift badge" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL badge" />
+  <img src="https://img.shields.io/badge/ETL%2FELT-4B0082?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="ETL and ELT badge" />
+  <img src="https://img.shields.io/badge/Data%20Lakes-0A66C2?style=for-the-badge&logo=amazons3&logoColor=white" alt="Data Lakes badge" />
+  <img src="https://img.shields.io/badge/Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Pipelines badge" />
 </p>
 
 <p align="left">
   <strong>AWS</strong><br>
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS technologies" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS badge" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3 badge" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda badge" />
+  <img src="https://img.shields.io/badge/Glue-3B48CC?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Glue badge" />
+  <img src="https://img.shields.io/badge/ECS-FF4F8B?style=for-the-badge&logo=amazonecs&logoColor=white" alt="Amazon ECS badge" />
 </p>
 
 <p align="left">
-  <strong>AWS Services</strong><br>
-  S3 • Lambda • Glue • ECS
-</p>
-
-<p align="left">
-  <strong>Data Stack</strong><br>
-  ETL/ELT • Data Lakes • Pipelines • SQL
+  <strong>Containers and OS</strong><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux badge" />
 </p>
 
 <p align="left">
   <strong>Tools</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" alt="Development tools" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
 </p>
 
 ###
